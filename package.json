@@ -1,0 +1,19 @@
+{
+  "name": "sixerr",
+  "version": "1.0.0",
+  "description": "Fiverr clone from the [Code4Startup.com tutorial](https://code4startup.com/projects/build-fiverr-marketplace-with-python-django-and-braintree)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robasaad/sixerr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robasaad/sixerr/issues"
+  },
+  "homepage": "https://github.com/robasaad/sixerr#readme",
+  "devDependencies": {
+  }
+}
